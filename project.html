@@ -1,0 +1,30 @@
+---
+layout: example
+---
+
+
+
+
+<div class="home">
+
+    <p class="page-heading"><font size="10" ><b>Projects</b></font><font size="5" color="grey">  <i> &nbsp;&nbsp;Research and Courses</i></font></p>
+    <br>
+    <div align ="right"></div>
+  <ul class="post-list">
+      {% for post in site.posts %}
+      
+      <li>
+            <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                {{ post.title }}
+                </a>
+          </p>
+            
+          <br>
+      </li>
+
+          {% endfor %}
+  </ul>
+</div>
+
+</div>
