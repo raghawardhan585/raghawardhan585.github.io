@@ -4,7 +4,6 @@ site.title:  "Control of Machining Instability -Research Project-"
 ---
 <marquee>This is still an ongoing project. Please look back later for updates</marquee>
 <br>
-<div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 <font size="5"><b>Guided By</b></font>
 <p><a href="http://arunkt.wix.com/homepage">Prof. Arun K. Tangirala</a>, Department of Chemical Engineering, IIT Madras</p>

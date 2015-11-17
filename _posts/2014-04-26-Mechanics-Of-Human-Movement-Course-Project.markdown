@@ -6,7 +6,6 @@ date:   2014-04-26 02:51:19 +0530
 
 
 <br>
-<div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 <font size="5"><b>Guided By</b></font>
 <p>Prof. Sujatha Srinivasan, Department of Machanical Engineering, IIT Madras</p>

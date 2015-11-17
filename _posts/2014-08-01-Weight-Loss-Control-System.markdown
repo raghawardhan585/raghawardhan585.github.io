@@ -5,7 +5,6 @@ title:  "Weight Loss Control System -Research Project-"
 
 
 <br>
-<div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 <font size="5"><b>Guided By</b></font>
 <p><a href="http://engineering.unl.edu/mme/benjamin-terry/">Prof. Benjamin Terry</a>, Department of Mechanical Engineering, University of Nebraska, Lincoln, USA</p>

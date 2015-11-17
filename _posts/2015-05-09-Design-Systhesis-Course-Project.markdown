@@ -6,7 +6,6 @@ date:   2014-12-01 02:51:19 +0530
 
 <marquee><a href="https://www.youtube.com/watch?v=FRC9iZSF_EE">Click to checkout the advertisement we made for our product Piano Assistive Device</a></marquee>
 <br>
-<div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 <font size="5"><b>Guided By</b></font>
 <p>Prof. Krishnan Balasubramanian, Department of Mechanical Engineering, IIT Madras</p>

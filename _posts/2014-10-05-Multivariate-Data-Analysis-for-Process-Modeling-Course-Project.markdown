@@ -6,7 +6,6 @@ date:   2014-10-05 02:51:19 +0530
 
 
 <br>
-<div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 <font size="5"><b>Guided By</b></font>
 <p>Prof. Shankar Narasimhan, Department of Chemical Engineering, IIT Madras</p>
