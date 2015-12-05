@@ -21,7 +21,7 @@ date:   2015-05-08 02:51:19 +0530
 <font size="3"><b>Problem 2- Compressive Sensing</b></font>
 <p align ="justify">The objective of the project is to use the Compressive Sensing technique to find order and the delay of large delay, sparse parametric models by using a small number of samples.The key idea in Compressive Sensing methods is to use sparse representation of signals.</p>
 <br>
-<section role="banner" align="center">
+<section role="banner">
 <iframe src="/System_Identification_Project.pdf" 
 style="width:600px; height:500px;" frameborder="2"></iframe>
 </section>

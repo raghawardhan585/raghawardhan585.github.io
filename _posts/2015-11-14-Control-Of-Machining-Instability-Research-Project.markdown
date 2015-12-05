@@ -2,7 +2,7 @@
 layout: post
 site.title:  "Control of Machining Instability -Research Project-"
 ---
-<marquee>This is still an ongoing project. Please look back later for updates</marquee>
+*This is still an ongoing project. Please look back later for updates.
 <br>
 <br>
 <font size="5"><b>Guided By</b></font>
@@ -18,8 +18,6 @@ Wavelet Transform, Feedforward Contol and Identification</p>
 <br>
 <font size="5"><b>Abstract</b></font>
 <p>The objective of the project is to implement the Wavelet Based Filtered-x Least Mean Square(WBFXLMS) Controller, a controller which has a foot in time domain and another foot in frequency domain in a Cylindrical Grinding Machine with the depth of cut as the manipulated variable to minimize the Machining Instability and return the state of the spindle from chaos to periodic.</p>
-<br>
-<div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 <font size="3"><b>High Speed Low Immersion Milling Model</b></font>
 <p>We start with this non linear model to analyze how it tends towards instability and first implement the WBFXLMS Controller on this process and then extend it to the Cylindrical Grinding Process</p>
@@ -40,4 +38,4 @@ Wavelet Transform, Feedforward Contol and Identification</p>
 <br>
 <div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
-<marquee>This is still an ongoing project. Please look back later for updates</marquee>
+*This is still an ongoing project. Please look back later for updates.
