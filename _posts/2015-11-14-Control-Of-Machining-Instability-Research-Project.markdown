@@ -22,7 +22,7 @@ Wavelet Transform, Feedforward Contol and Identification</p>
 <font size="3"><b>High Speed Low Immersion Milling Model</b></font>
 <p>We start with this non linear model to analyze how it tends towards instability and first implement the WBFXLMS Controller on this process and then extend it to the Cylindrical Grinding Process</p>
 <section role="banner">
-<center><img src="/img/milling.png" width="1100" height="750" /></center>  
+<center><img src="/img/milling.png" width="1200" height="750" /></center>  
 </section>
 <font size="3"><b>Instability Analysis by Empirical Mode Decomposition</b></font>
 <p>Empirical Mode Decomposition alongwith Instantaneous Frequency proved a better technique than Fourier Transform or Time-Frequency Analysisto detect the route to chaos</p>
