@@ -24,7 +24,6 @@ Wavelet Transform, Feedforward Contol and Identification</p>
 <section role="banner">
 <center><img src="/img/milling.png" width="850" height="550" /></center>  
 </section>
-<br>
 <font size="3"><b>Instability Analysis by Empirical Mode Decomposition</b></font>
 <p>Empirical Mode Decomposition alongwith Instantaneous Frequency proved a better technique than Fourier Transform or Time-Frequency Analysisto detect the route to chaos</p>
 <section role="banner">
