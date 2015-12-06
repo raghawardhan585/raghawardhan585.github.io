@@ -21,6 +21,12 @@ date:   2014-12-02 02:51:19 +0530
 <font size="3"><b>Problem 2- Seasonal Auto Regressive Integrated Moving Average(SARIMA) Model Development</b></font>
 <p align ="justify">The objective of the project is to develop a SARIMA Model for the given data. The given dataset seems to exhibit a non stationary trend along with a seasonal component. The objective is to convert the given data set to a stationary dataset by removing the trends and the seasonal components and then fit an ARMA model to the remaining dataset.</p>
 <br>
-<h4>*The report containing the algorithms used and the sample results for both the projects can be downloaded <a href="/ATSA_Project.pdf" download><b>here</b></a></h4>
+
+<section role="banner">
+<center><iframe src="/ATSA_Project.pdf" 
+style="width:600px; height:500px;" frameborder="2"></iframe></center>
+</section>
+
+<br>
 <div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
