@@ -22,11 +22,6 @@ date:   2014-12-02 02:51:19 +0530
 <p align ="justify">The objective of the project is to develop a SARIMA Model for the given data. The given dataset seems to exhibit a non stationary trend along with a seasonal component. The objective is to convert the given data set to a stationary dataset by removing the trends and the seasonal components and then fit an ARMA model to the remaining dataset.</p>
 <br>
 
-<section role="banner">
-<center><iframe src="/ATSA_Project.pdf" 
-style="width:600px; height:500px;" frameborder="2"></iframe></center>
-</section>
-
 <br>
 <div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
