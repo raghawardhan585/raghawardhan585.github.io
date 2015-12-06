@@ -26,13 +26,6 @@ title:  "Weight Loss Control System -Research Project-"
 <br>
 
 <br>
-<font size="3"><b>Proposed Control System</b></font>
-<section role="banner" align="center">
-  <img src="/img/wls.png" />
-</section>
-<br>
-
-<br>
 <div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
 
