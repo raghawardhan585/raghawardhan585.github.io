@@ -8,11 +8,10 @@ title:  "Weight Loss Control System -Research Project-"
 <br>
 <font size="5"><b>Guided By</b></font>
 <p><a href="http://engineering.unl.edu/mme/benjamin-terry/">Prof. Benjamin Terry</a>, Department of Mechanical Engineering, University of Nebraska, Lincoln, USA</p>
-<p>Prof. P V Manivannan, Department of Mechanical Engineering, IIT Madras</p>
 <br>
 
 <font size="5"><b>Type of project</b></font>
-<p>During the summer of my 3rd year, Prof. Benjamin Terry had offered me an internship in his lab for a period of two months to work on his ongoing project along with collaboration with Prof. Manivannan from my home institute.</p>
+<p>During the summer of my 3rd year, Prof. Benjamin Terry had offered me an internship in his lab for a period of two months to work on his ongoing project.</p>
 <br>
 
 <br>
