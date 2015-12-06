@@ -20,18 +20,14 @@ date:   2014-12-01 02:51:19 +0530
 
 <font size="3"><b>Abstract</b></font>
 <p align="justify">The objective of the project is to develop a product which will aid in learning the right fingering technique to play the keyboard. We developed a GUI in python to show the note that is to be played, indicate the key in the keyboard and we indicate the appropriate finger to play by giving signal to the appropriate vibration actuator embedded in a glove. This is an effective learning technique as it stimulates muscle memory and hence aids the user to learn effortlessly </p>
-
-<section role="banner" align="center">
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=FRC9iZSF_EE">
-</iframe>
-</section>
+<br>
+<a href="https://www.youtube.com/watch?v=FRC9iZSF_EE"><i>Click to checkout the advertisement we made for our product Piano Assistive Device</i></a>
 
 <br>
 <div align="right"><a href="/project.html">GO BACK</a></div>
 
 <br>
-<a href="https://www.youtube.com/watch?v=FRC9iZSF_EE"><i>Click to checkout the advertisement we made for our product Piano Assistive Device</i></a>
+
 
 
 
