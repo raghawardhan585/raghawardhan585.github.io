@@ -32,6 +32,7 @@ title:  "Weight Loss Control System -Research Project-"
 </section>
 In this framework, the first controller takes care to attain the overall objectives by taking in the initial condition of the person and various inputs like the desired weight and the desired time to attain that weight and calculates the maximum calorie consumption to achieve that goal. The second controller has a measurement of the mass flow rate in the small intestine from which the calorie intake is estimated and it suggests to the user, the amount of food he can consume for the meal. To start off, the primary objective is to identify the system dynamics. 
 <br>
+<br>
 <font size="3"><b>Model Identification</b></font>
 <br>
 To model the dynamics of the system, the data of food intake and weight of the body has been collected for a period of one month and system identification techniques have been implemented to identify the linear time invariant models. But they are highly insufficient to capture the dynamics of the process.<br>
