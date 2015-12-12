@@ -36,8 +36,8 @@ In this framework, the first controller takes care to attain the overall objecti
 <br>
 To model the dynamics of the system, the data of food intake and weight of the body has been collected for a period of one month and system identification techniques have been implemented to identify the linear time invariant models. But they are highly insufficient to capture the dynamics of the process.<br>
 
-<iframe src="/wls.pdf" 
-style="width:600px; height:500px;" frameborder="2"></iframe>
+<center><iframe src="/wls.pdf" 
+style="width:600px; height:500px;" frameborder="2"></iframe></center>
 </section>
 
 <br>
