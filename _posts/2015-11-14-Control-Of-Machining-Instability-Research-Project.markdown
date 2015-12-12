@@ -17,23 +17,24 @@ site.title:  "Control of Machining Instability -Research Project-"
 Wavelet Transform, Feedforward Contol and Identification</p>
 <br>
 <font size="5"><b>Abstract</b></font>
-<p>The objective of the project is to implement the Wavelet Based Filtered-x Least Mean Square(WBFXLMS) Controller, a controller which has a foot in time domain and another foot in frequency domain in a Cylindrical Grinding Machine with the depth of cut as the manipulated variable to minimize the Machining Instability and to improve the precision of the Grinding Machine.</p>
+<p>The objective of the project is to implement a simultaneous time-frequency controller in a Cylindrical Grinding Machine to minimize the Machining Instability and to improve the precision of the Grinding Machine.</p>
 <br>
 <font size="3"><b>High Speed Low Immersion Milling Model</b></font>
-<p>We start with this non linear model to analyze how it tends towards instability and first implement the WBFXLMS Controller on this process and then extend it to the Cylindrical Grinding Process</p>
+<p>We start with this non linear model to analyze for what cutting conditions, it tends towards instability. Then we implement the Wavelet Based Filtered-x Least Mean Square (WBFXLMS) Controller to this process to stabiliz the process. The later objective is to extend it to the Cylindrical Grinding Process.</p>
 <section role="banner">
 <center><img src="/img/milling.png" width="1400" height="750" /></center>  
 </section>
 <font size="3"><b>Instability Analysis by Empirical Mode Decomposition</b></font>
-<p>Empirical Mode Decomposition alongwith Instantaneous Frequency proved a better technique than Fourier Transform or Time-Frequency Analysisto detect the route to chaos</p>
+<p>The technique of coupled Empirical Mode Decomposition and Instantaneous Frequency has been applied to the displacement data of the tool acquired from the above high speed low immersion milling model for various cutting conditions. It can be clearly seen that the process tends towards instability in frequency domain. </p>
 <section role="banner">
   <center><img src="/img/millcut.png" width="750" height="550" /></center>
 </section>
 <font size="3"><b>WBFXLMS Controller</b></font>
-<p>This is the schematic of the controller. It is yet to be implemented. Please get back to the site later to know the results of iplementation.</p>
+<p>This is the schematic of the controller. It is in the process of implementation. </p>
 <section role="banner" align="center">
 <center><img src="/img/wbfxlms.png" width="630" height="315" /></center>
 </section>
+
 <br>
 <div align="right"><a href="/project.html">GO BACK</a></div>
 <br>
