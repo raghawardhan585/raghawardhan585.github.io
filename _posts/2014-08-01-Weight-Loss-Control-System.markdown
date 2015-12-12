@@ -23,6 +23,7 @@ title:  "Weight Loss Control System -Research Project-"
 <font size="5"><b>Abstract</b></font>
 <p>The objective of the project is to dvelop a Control System for aiding in weight reduction based on a sensor which measures the mass flow rate in the small intestine. The sub-ojective is to develop a model a model between the food intake and the weight change of the body to design the necessary controller.  
 <br>
+<br>
 
 
 <font size="3"><b>Proposed Control Framework</b></font>
@@ -30,10 +31,9 @@ title:  "Weight Loss Control System -Research Project-"
 <center><img src="/img/wls.png" width="630" height="365" /></center>
 In this framework, the first controller takes care to attain the overall objectives by taking in the initial condition of the person and various inputs like the desired weight and the desired time to attain that weight and calculates the maximum calorie consumption to achieve that goal. The second controller has a measurement of the mass flow rate in the small intestine from which the calorie intake is estimated and it suggests to the user, the amount of food he can consume for the meal. To start off, the primary objective is to identify the system dynamics. 
 </section>
-
+<br>
 <font size="3"><b>Model Identification</b></font>
-<section role="banner" align="center">
-<center><img src="/img/wls.png" width="630" height="315" /></center>
+<br>
 To model the dynamics of the system, the data of food intake and weight of the body has been collected for a period of one month and system identification techniques have been implemented to identify the linear time invariant models. But they are highly insufficient to capture the dynamics of the process.<br>
 
 <iframe src="/wls.pdf" 
